@@ -3,6 +3,8 @@ Bem-vindo(a) ao meu portfólio de UI/UX Design! Sou estudante de Ciência da Com
 
 ## Segue abaixo uma lista com todos os meus projetos
 
-1. Um projeto acadêmico cuja ideia era prototipar a interface de um aplicativo mobile que ajudasse a monitorar o sono dos usuários. O projeto contém todas as funções fundamentais, home page, login page, uma aba de opções, iconografia e tipografia padronizadas. Paleta de cores foi pensada com cuidado de modo que as cores da interface ajudem o usuário a "relaxar" o cérebro.
+### 1. U SLEEP 
+
+Um projeto acadêmico cuja ideia era prototipar a interface de um aplicativo mobile que ajudasse a monitorar o sono dos usuários. O projeto contém todas as funções fundamentais, home page, login page, uma aba de opções, iconografia e tipografia padronizadas. Paleta de cores foi pensada com cuidado de modo que as cores da interface ajudem o usuário a "relaxar" o cérebro.
 
 https://www.figma.com/design/bsGYhazA1x1e6xLPkOGxfn/u-sleep?m=auto&t=F6soGNChYPkVnIAc-1
